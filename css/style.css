@@ -1239,6 +1239,7 @@ a.create:hover,
 }
 
 .cssmenu ul li a {
+    font-family: Rancho;
     color: #1a1a1a;
     display: block;
     margin: 10px 20px;
