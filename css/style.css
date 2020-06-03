@@ -477,6 +477,7 @@ ul.header_user_info li.user_desc {
 
 span.m_1 {
     color: maroon;
+    font-weight: bolder;
 }
 
 .logo {
@@ -485,7 +486,7 @@ span.m_1 {
 
 .logo h1 a {
     color: maroon;
-    font-weight: bold;
+    letter-spacing: 0px;
 }
 
 .logo h1 a:hover {
@@ -1323,7 +1324,7 @@ ul.social li a i.tw {
 /*--men--*/
 
 .men {
-    padding: 5em 0 2em;
+    padding: 1em 0 0em;
 }
 
 .men_banner {
@@ -1333,7 +1334,7 @@ ul.social li a i.tw {
     -o-background-size: cover;
     min-height: 225px;
     text-align: center;
-    padding-top: 3em;
+    padding-top: 1em;
 }
 
 .sidebar_men {
