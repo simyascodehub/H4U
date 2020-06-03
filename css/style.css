@@ -470,10 +470,9 @@ ul.header_user_info li.user_desc {
 }
 
 .logo h1 {
-    font-size: 7em;
-    margin-bottom: 0;
+    font-size: 6em;
     font-family: 'Lovers Quarrel';
-    letter-spacing: 5px;
+    letter-spacing: 0px;
 }
 
 span.m_1 {
