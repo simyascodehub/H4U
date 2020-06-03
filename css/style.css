@@ -486,6 +486,7 @@ span.m_1 {
 
 .logo h1 a {
     color: maroon;
+    font-weight: bold;
 }
 
 .logo h1 a:hover {
