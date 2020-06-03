@@ -23,6 +23,14 @@ p {
     margin: 0;
 }
 
+p.carouseldesc {
+    font-family: Rancho;
+}
+
+h3.carouseldesc {
+    font-family: Rancho;
+}
+
 html,
 body {
     font-family: 'Rancho';
@@ -1308,6 +1316,7 @@ ul.social li a i.tw {
 
 .copy p {
     font-size: 1em;
+    font-family: Rancho;
 }
 
 
