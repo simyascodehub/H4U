@@ -144,7 +144,7 @@ html[xmlns] .flexslider .slides {
     -ms-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
-    background: url(../_H4UIMG/img-sprite.png) -149px -6px;
+    background: url(../H4UIMG/img-sprite.png) -149px -6px;
     text-indent: -9999px;
 }
 .flex-direction-nav .flex-prev {
@@ -152,7 +152,7 @@ html[xmlns] .flexslider .slides {
 }
 .flex-direction-nav .flex-next {
     right: -50px;
-    background: url(../_H4UIMG/img-sprite.png) -184px -6px;
+    background: url(../H4UIMG/img-sprite.png) -184px -6px;
 }
 .flexslider:hover .flex-direction-nav .flex-prev {
     opacity: 0.7;
