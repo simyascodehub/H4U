@@ -12,6 +12,16 @@
     float: left;
 }
 
+.orderbutton button {
+    color: #000;
+    background: moccasin;
+    padding: 6px 15px;
+    margin: 10px 0 0;
+    display: inline-block;
+    transition: background 0.2s;
+    font-size: 0.8125em;
+}
+
 .cbp-vm-options a {
     display: inline-block;
     width: 20px;
