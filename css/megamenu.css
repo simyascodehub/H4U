@@ -3,7 +3,7 @@
     padding: 0;
     width: 100%;
     list-style: none;
-    display: inline-block;
+    display: grid;
     position: relative;
     font-size: 15px;
     font-family: 'Rancho';
@@ -25,7 +25,7 @@
     -moz-transition: all 0.3s ease-in-out;
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
-    color: black;
+    color: white;
     letter-spacing: 5px;
     font-weight: 400;
 }
@@ -261,8 +261,8 @@
     height: 3px;
     width: 25px;
     font-size: 50px;
-    border-top: 3px solid #000;
-    border-bottom: 3px solid #000;
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
     z-index: 1
 }
 
@@ -274,8 +274,8 @@
     height: 3px;
     width: 25px;
     font-size: 50px;
-    border-top: 3px solid #000;
-    border-bottom: 3px solid #000;
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
     z-index: 1
 }
 
@@ -287,7 +287,6 @@
 
 .skyblue>li:hover>a,
 .skyblue .dropdown li:hover>a {
-    color: whites;
     background: maroon;
 }
 
@@ -382,7 +381,7 @@
     }
     .megamenu>li.showhide span.title {
         margin: 10px 0 0 15px;
-        color: #000;
+        color: white
     }
     .megamenu>li.showhide span.icon1:after {
         top: 12px;
