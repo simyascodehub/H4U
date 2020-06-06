@@ -742,14 +742,11 @@ ul.content-home li .item-html button:hover {
 
 /**TESTIMONIAL ALBUM**/
 
-.testimg {
-    border-radius: 50%;
-}
-
 .lb-testalbum {
     margin: 0 auto;
     padding: 0;
     list-style: none;
+    float: right;
 }
 
 .lb-testalbum li:nth-child(4),
@@ -762,6 +759,7 @@ ul.content-home li .item-html button:hover {
 .lb-testalbum li>a img {
     display: block;
     width: 100%;
+    border-radius: 50%;
 }
 
 .lb-testalbum li>a {
@@ -770,6 +768,7 @@ ul.content-home li .item-html button:hover {
 
 .lb-testalbum li>a span {
     position: absolute;
+    display: inline-flex;
     width: 100%;
     height: 100%;
     top: 0px;
