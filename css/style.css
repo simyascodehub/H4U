@@ -18,10 +18,14 @@ p {
 
 p.carouseldesc {
     font-family: Rancho;
+    font-size: 30px;
+    color: gold
 }
 
 h3.carouseldesc {
     font-family: Rancho;
+    font-size: 45px;
+    color: gold;
 }
 
 a:active,
