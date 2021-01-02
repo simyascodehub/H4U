@@ -649,7 +649,7 @@ ul.content-home li .item-html button:hover {
 }
 
 .middle_content {
-    margin-bottom: 5em;
+    margin-bottom: 0em;
     text-align: center;
 }
 
@@ -3021,7 +3021,7 @@ a.cpns {
         padding: 3em 0;
     }
     .middle_content {
-        margin-bottom: 3em;
+        margin-bottom: 0em;
     }
     .menu {
         margin: 2em 0 0 0;
@@ -3156,9 +3156,9 @@ a.cpns {
     .middle_content p {
         font-size: 0.95em;
     }
-    .middle_content {
+    /* .middle_content {
         margin-bottom: 2em;
-    }
+    } */
     .lb-album li>a span {
         line-height: 6.5em;
     }
