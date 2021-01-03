@@ -1,6 +1,13 @@
 /* latin */
 
 @font-face {
+    font-family: 'playlist-script';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../css/PlaylistScript.ttf);
+}
+
+@font-face {
     font-family: 'Rancho';
     font-style: normal;
     font-weight: 400;
