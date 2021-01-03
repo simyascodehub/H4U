@@ -2129,6 +2129,10 @@ h2.resp-accordion:hover {
     .resp-accordion-closed {
         display: none !important;
     }
+    .logo img {
+        display: inline;
+        width: 325px;
+    }
 }
 
 ul.tab_list {
@@ -2658,6 +2662,10 @@ a.cpns {
     .field_content h1 {
         font-size: 2.6em;
     }
+    .logo img {
+        display: inline;
+        width: 325px;
+    }
 }
 
 @media (max-width:1280px) {
@@ -2670,6 +2678,10 @@ a.cpns {
     .field_content {
         top: 16em;
         left: 5em;
+    }
+    .logo img {
+        display: inline;
+        width: 325px;
     }
 }
 
@@ -2756,6 +2768,10 @@ a.cpns {
     .quantity_box {
         margin: 1em 0;
     }
+    .logo img {
+        display: inline;
+        width: 930px;
+    }
 }
 
 @media (max-width:930px) {
@@ -2833,6 +2849,10 @@ a.cpns {
     .content_middle {
         margin-top: 0;
     }
+    .logo img {
+        display: inline;
+        width: 325px;
+    }
 }
 
 @media (max-width:768px) {
@@ -2896,6 +2916,10 @@ a.cpns {
     }
     .col-md-5.left-account {
         margin: 3em 0 0 0;
+    }
+    .logo img {
+        display: inline;
+        width: 325px;
     }
 }
 
@@ -3008,6 +3032,10 @@ a.cpns {
     .span_1_of_a1 {
         width: 100%;
     }
+    .logo img {
+        display: inline;
+        width: 325px;
+    }
 }
 
 @media (max-width:480px) {
@@ -3048,7 +3076,8 @@ a.cpns {
         letter-spacing: 10px;
     }
     .logo img {
-        width: 130px;
+        display: inline;
+        width: 325px;
     }
     .cssmenu ul li a {
         margin: 10px 4px;
@@ -3104,6 +3133,10 @@ a.cpns {
     a.continue {
         padding: 7px 10px;
     }
+    .logo img {
+        display: inline;
+        width: 325px;
+    }
 }
 
 @media (max-width:414px) {
@@ -3119,6 +3152,10 @@ a.cpns {
     }
     i.user {
         margin: 6px 3px 0 0px;
+    }
+    .logo img {
+        display: inline;
+        width: 325px;
     }
 }
 
@@ -3354,5 +3391,9 @@ a.cpns {
     }
     .grid_1 {
         margin-bottom: 1em;
+    }
+    .logo img {
+        display: inline;
+        width: 250px;
     }
 }
