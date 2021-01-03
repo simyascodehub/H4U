@@ -6610,7 +6610,7 @@ button.close {
     content: '\203a';
 }
 
-.carousel-indicators {
+.carousel-indicators-hp {
     position: absolute;
     bottom: 10px;
     left: 50%;
@@ -6622,20 +6622,20 @@ button.close {
     list-style: none;
 }
 
-.carousel-indicators li {
+.carousel-indicators-hp li {
     display: inline-block;
     width: 10px;
     height: 10px;
     margin: 1px;
     text-indent: -999px;
     cursor: pointer;
-    background-color: #000 \9;
-    background-color: rgba(0, 0, 0, 0);
-    border: 1px solid #fff;
+    background-color: #ffffff00;
+    /* background-color: rgba(0, 0, 0, 0); */
+    border: 1px solid #ffffff00;
     border-radius: 10px;
 }
 
-.carousel-indicators .active {
+.carousel-indicators-hp .active {
     width: 12px;
     height: 12px;
     margin: 0;
@@ -6675,7 +6675,7 @@ button.close {
         left: 20%;
         padding-bottom: 30px;
     }
-    .carousel-indicators {
+    .carousel-indicators-hp {
         bottom: 20px;
     }
 }
