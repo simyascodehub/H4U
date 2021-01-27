@@ -2651,7 +2651,7 @@ a.cpns {
 
 /*--responsive design--*/
 
-@media (max-width:1366px) {
+@media (max-width:1550px) {
     .lb-album li>a span {
         line-height: 14em;
     }
