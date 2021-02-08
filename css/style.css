@@ -322,11 +322,13 @@ p.empty a {
     position: relative;
     z-index: 3;
     color: black;
+    cursor: pointer;
 }
 
 .dropdown li.active {
     background: maroon;
     color: white;
+    cursor: pointer;s
 }
 
 ul.header_user_info {
@@ -335,11 +337,13 @@ ul.header_user_info {
     width: 50%;
     padding: 0;
     min-height: 30px;
+    cursor: pointer;
 }
 
 ul.header_user_info a {
     color: black;
     font-weight: bold;
+    cursor: pointer;
 }
 
 ul.header_user_info a:hover {
@@ -513,6 +517,7 @@ span.m_1 {
     -o-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
     line-height: 2.5em;
+    cursor: pointer;
 }
 
 .h_nav ul li a:hover {
@@ -705,6 +710,7 @@ ul.content-home li .item-html button:hover {
 .lb-album li>a img {
     display: block;
     width: 100%;
+    cursor: pointer;
 }
 
 .lb-album li>a {
@@ -1312,6 +1318,7 @@ a.create:hover,
 .cssmenu ul {
     padding: 0;
     list-style: none;
+    cursor: pointer;
 }
 
 .cssmenu ul li {
@@ -1327,6 +1334,7 @@ a.create:hover,
     font-size: 1.1em;
     font-weight: 600;
     letter-spacing: 5px;
+    cursor: pointer;
 }
 
 .cssmenu ul li a:hover {
@@ -1338,6 +1346,7 @@ ul.social {
     padding: 0;
     list-style: none;
     float: right;
+    cursor: pointer;
 }
 
 ul.social li:first-child {
@@ -1580,6 +1589,7 @@ ul.women_pagenation li a:hover {
     text-align: center;
     padding: 1em;
     font-family: Rancho;
+    cursor: pointer;
 }
 
 .product_container h4 {
@@ -1616,11 +1626,13 @@ ul.women_pagenation li a:hover {
     top: 0;
     left: 0;
     width: 100%;
+    cursor: pointer;
 }
 
 .view img {
     display: block;
     position: relative;
+    cursor: pointer;
 }
 
 .view .info {
@@ -1635,6 +1647,7 @@ ul.women_pagenation li a:hover {
     text-transform: uppercase;
     margin-top: 8em;
     font-family: Rancho;
+    cursor: pointer;
 }
 
 .view-first img {
@@ -2166,6 +2179,7 @@ ul.product li.product_img {
     float: left;
     width: 40%;
     margin-right: 5%;
+    cursor: pointer;
 }
 
 ul.product li.product_desc {
@@ -3286,6 +3300,7 @@ a.cpns {
     }
     .product_container {
         padding: 10px 10px 0;
+        cursor: pointer;
     }
     .view .info {
         padding: 5px 28px;
