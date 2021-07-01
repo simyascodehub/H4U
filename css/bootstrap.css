@@ -4945,11 +4945,14 @@ select[multiple].input-group-sm>.input-group-btn>.btn {
 
 .breadcrumb>li+li:before {
     padding: 0 5px;
-    color:maroon;
+    color :maroon;
     content: "/\00a0";
 }
 
 .breadcrumb>.active {
+    color: maroon
+}
+.breadcrumb-item> li :active {
     color: maroon
 }
 
