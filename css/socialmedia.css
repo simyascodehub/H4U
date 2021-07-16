@@ -19,15 +19,15 @@
   
   /* Style the social media icons with color, if you want */
   .icon-bar a:hover {
-    background-color:maroon;
+    background-color:rgb(255, 255, 255);
   }
   
   .facebook {
-    background : maroon;
+    background:white;
     color:maroon;
   }
   
-  .instagram{
+  .instagram {
     background:white;
     color:maroon;
   }
