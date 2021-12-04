@@ -1767,27 +1767,31 @@ img.zoom-img:hover {
 
 .reducedfrom {
     text-decoration: line-through;
-    margin-right: 3%;
-    color: #555;
+    margin-right: 5%;
+    color: maroon;
 }
 
 .price_single a {
-    color: #999;
+    color: maroon;
     font-size: 13px;
+    font-weight: bold;
 }
 
 h2.quick {
-    color: #000;
-    font-size: 1.2em;
-    text-transform: uppercase;
+    color: maroon;
+    font-size: 2em;
+    margin-top: 25px;
+    
+   
 }
 
 p.quick_desc {
-    color: #999;
-    font-size: 1em;
-    line-height: 1.8em;
+    color: maroon;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 1.2em;
     font-weight: 100;
-    margin-bottom: 2em;
+    margin-bottom: 1.2em;
 }
 
 span.actual {
